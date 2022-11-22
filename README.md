@@ -1,2 +1,2 @@
-Created by Lone Peijs
+Created by Lone Nielsen
 # pull_this_project
